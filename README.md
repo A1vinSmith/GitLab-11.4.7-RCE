@@ -1,4 +1,4 @@
-# GitLab-11.4.7-RCE (Exploit fixed)
+# GitLab-11.4.7-RCE (Exploit fixed) with BeautifulSoup
 POC for GitLabs Authenticated RCE in version 11.4.7 community edition
 
 ## Usage
